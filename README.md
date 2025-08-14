@@ -8,3 +8,4 @@ El proyecto consiste en realizar una landing page usando forks y merge en con gi
 - César Alexander Garay Ortez
 - Gerson Mauricio ALegria Caballero
 - Pedro David Ramos Garcia
+- Cesar Enoc Aparicio Reyes
