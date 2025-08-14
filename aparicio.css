@@ -1,0 +1,21 @@
+#secAparicio{
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+.aparicio-img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.ul-ap{
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
